@@ -9,6 +9,7 @@ import com.facebook.drawee.backends.pipeline.Fresco
 class SuiApplication : Application() {
     override fun onCreate() {
         super.onCreate()
+
         Fresco.initialize(this)
     }
 }
