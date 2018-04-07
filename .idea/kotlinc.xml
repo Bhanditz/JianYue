@@ -4,6 +4,7 @@
   <component name="Kotlin2JsCompilerArguments">
 
     <option name="sourceMapEmbedSources" />
+
     <option name="sourceMapPrefix" />
   </component>
 </project>
